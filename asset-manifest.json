@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recruitment/static/css/main.657840f2.css",
+    "main.js": "/recruitment/static/js/main.8fd796ba.js",
+    "static/media/logo.svg": "/recruitment/static/media/logo.a807cab4fe5ef8131a2df8c7e7113bb8.svg",
+    "index.html": "/recruitment/index.html",
+    "main.657840f2.css.map": "/recruitment/static/css/main.657840f2.css.map",
+    "main.8fd796ba.js.map": "/recruitment/static/js/main.8fd796ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657840f2.css",
+    "static/js/main.8fd796ba.js"
+  ]
+}
